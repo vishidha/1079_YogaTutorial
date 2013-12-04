@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <!-- TEXT ACTIVITY WITH THEME -->
+    
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="App Developers:
+        1. Shivani Singal
+        2. Snigdha
+        3. Vishavraj Munjal
+        Students Of GIMT
+        Thankyou For using the app."
+        android:id="@+id/textView1"/>
+    
+
+</LinearLayout>
+<!-- theme is when click on any item button in menu item...a box will popup containg the text view or something.
+.to look your app bacground little bit good......... now create a new class AboutUs.java -->

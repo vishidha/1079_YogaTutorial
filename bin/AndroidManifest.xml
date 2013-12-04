@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yogatutorial"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/images17"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.yogatutorial.YogaHome"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.YogaHome" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+             <activity
+            android:name="com.example.yogatutorial.AsanaList"
+            android:label="@string/list">
+            </activity>
+             <activity
+            android:name="com.example.yogatutorial.DiseaseList"
+            android:label="@string/dlist">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.AboutYoga"
+            android:label="@string/aboutyoga">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Asthma"
+            android:label="@string/asthma_asanalist">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Bp"
+            android:label="@string/bp_asanalist">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Cancer"
+            android:label="@string/cancer_asanalist">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Cervical"
+            android:label="@string/cervical_asanalist">
+            </activity>
+           <activity
+            android:name="com.example.yogatutorial.Obesity"
+            android:label="@string/obesity_asanalist">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Diabetes"
+            android:label="@string/diabetes_asanalist">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Hernia"
+            android:label="@string/hernia_asanalist">
+            </activity>
+             <activity
+            android:name="com.example.yogatutorial.Siddhasana"
+            android:label="@string/asana1">
+            </activity>
+             <activity
+            android:name="com.example.yogatutorial.SiddhasanaVideo"
+            android:label="@string/siddhasana">
+            </activity>
+             <activity
+            android:name="com.example.yogatutorial.Sarvangasana"
+            android:label="@string/asana2">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Mandukasana"
+            android:label="@string/asana3">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.BaddhaPadmasana"
+            android:label="@string/asana4">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Bhujangasana"
+            android:label="@string/asana5">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Chakrasana"
+            android:label="@string/asana6">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Dhanurasana"
+            android:label="@string/asana7">
+            </activity>
+           
+             <activity
+            android:name="com.example.yogatutorial.Garudasana"
+            android:label="@string/asana8">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Gomukhasana"
+            android:label="@string/asana9">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.Halasana"
+            android:label="@string/asana10">
+            </activity>
+           <activity
+            android:name="com.example.yogatutorial.Shavasana"
+            android:label="@string/asana11">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.Kukkutasana"
+            android:label="@string/asana12">
+            </activity>
+             <activity
+            android:name="com.example.yogatutorial.Makarasana"
+            android:label="@string/asana13">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.Matsyasana"
+            android:label="@string/asana14">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Mayurasana"
+            android:label="@string/asana15">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Paschimothanasana"
+            android:label="@string/asana16">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Sirsasana"
+            android:label="@string/asana17">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Shalabhasana"
+            android:label="@string/asana18">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Tadasana"
+            android:label="@string/asana19">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Vajrasana"
+            android:label="@string/asana20">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.AnulomVilom"
+            android:label="@string/asana21">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.Kapalbhati"
+            android:label="@string/asana22">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.ArdhaHalasana"
+            android:label="@string/asana23">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.Shashankasana"
+            android:label="@string/asana24">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.Suptavajrasana"
+            android:label="@string/asana25">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.Ushtrasana"
+            android:label="@string/asana26">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.Pavanmuktasana"
+            android:label="@string/asana28">
+            </activity> 
+            <activity
+            android:name="com.example.yogatutorial.BaddhaPadmasanaVideo"
+            android:label="@string/baddhapadmasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.chakrasanavideo"
+            android:label="@string/chakrasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.DhanurasanaVideo"
+            android:label="@string/dhanurasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.GarudasanaVideo"
+            android:label="@string/garudasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Gomukhasanavideo"
+            android:label="@string/gomukhasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.HalasanaVideo"
+            android:label="@string/halasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.KukkutasanaVideo"
+            android:label="@string/kukkutasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.MakrasanaVideo"
+            android:label="@string/makrasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.MandukasanaVideo"
+            android:label="@string/mandukasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.MatsyasanaVideo"
+            android:label="@string/matsyasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.MayurasnaVideo"
+            android:label="@string/mayurasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.PaschimotthanasanaVideo"
+            android:label="@string/paschimotthanasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.Sarvangasanavideo"
+            android:label="@string/sarvangasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.ShalabhasanaVideo"
+            android:label="@string/shalabhasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.ShavasanaVideo"
+            android:label="@string/shavasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.SirsasanaVideo"
+            android:label="@string/sirsasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.TadasanaVideo"
+            android:label="@string/tadasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.BhujangasanaVideo"
+            android:label="@string/bhujangasana">
+            </activity>
+            <activity
+            android:name="com.example.yogatutorial.VajrasanaVideo"
+            android:label="@string/vajrasana">
+            </activity>
+            
+             <activity
+            android:name="com.example.yogatutorial.splash"
+            android:label="@string/app_name" ><intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            </activity>
+            
+               <activity
+            android:name="com.example.yogatutorial.AboutUs"
+            android:label="@string/app_name"
+             android:theme="@android:style/Theme.Dialog" ><intent-filter>
+                <action android:name="com.example.yogatutorial.ABOUT" />
+                  <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            </activity>
+             <activity
+            android:name="com.example.yogatutorial.Prefs"
+            android:label="@string/app_name"
+             android:theme="@android:style/Theme.Dialog" ><intent-filter>
+                <action android:name="com.example.yogatutorial.PREFS" />
+                  <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            </activity>
+               
+            
+               </application>
+
+</manifest>

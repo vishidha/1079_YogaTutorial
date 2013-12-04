@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <!-- SETTING UP A STRING ARRAY RESOURSE
+ like we difine all the string data in string.xml similarly we define all the arrrayss in array.xml
+ name-is wht name of arraay in prefs or any other location tht we r refencing
+ item- elementss of array -->  
+    <string-array name="list" >
+        <item >option 1</item>
+         <item >option 2</item>
+          <item >option 3</item>
+           <item >option 4</item>
+        
+    </string-array>   
+    
+    <!-- now we want the above itemss to be checked to start with..
+    so we set up lit values thts gonna refer to..we can set numerical values to these itemsss -->
+    <string-array name="lvalues" >
+        <item >option 1</item>
+         <item >option 2</item>
+          <item >option 3</item>
+           <item >option 4</item>
+        
+    </string-array>
+</resources>
+
+<!-- next is creating a preference activity -->

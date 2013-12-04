@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/vsss"
+    >
+
+
+<Button
+    android:id="@+id/yasan"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    android:layout_marginBottom="37dp"
+    android:layout_marginRight="72dp"
+    android:text="@string/exploreasana"
+    android:textColor="#254117"
+   
+     />
+
+<Button
+    android:id="@+id/yinfo"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignBaseline="@+id/ydisease"
+    android:layout_alignBottom="@+id/ydisease"
+    android:layout_alignParentLeft="true"
+    android:text="@string/aboutyoga"
+    android:textColor="#254117" />
+
+<Button
+    android:id="@+id/ydisease"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginRight="18dp"
+    android:layout_marginTop="18dp"
+    android:text="@string/disease" 
+    android:textColor="#254117"/>
+
+</RelativeLayout>

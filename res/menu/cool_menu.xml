@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<!-- SETTING UP A MENU USING MENUINFLATER -->
+    
+           <!-- instead of text,we use title -->
+     <item android:title="About Us"             
+         android:id="@+id/aboutus"
+         android:numericShortcut="1"
+         android:alphabeticShortcut="a"/>
+     
+         <!-- shortcuts to popup the menu -->
+     
+      <item android:title="Preferences"
+         android:id="@+id/preferenes"
+         />
+      <item android:title="Exit"
+         android:id="@+id/exit"
+         />
+      
+</menu>
+
+    <!-- now open the menu class tht we setup n override the oncreateoption menu method -->

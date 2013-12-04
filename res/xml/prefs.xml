@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+   <!-- SETTING UP PREFEReNCES -->>
+    <!-- the beaty of prefernces is it will save the data after we exit -->>
+    
+
+<CheckBoxPreference 
+    android:title="Music"
+    android:key="checkbox"
+    android:summary="for the splash sreen"
+    android:defaultValue="true"/>
+
+</PreferenceScreen>
+
+
+
+<!-- Listpreferences gonna create list with 4 radio buttons(4 optopns in array) through  "@array/list" depending upon which we have values
+"@array/list"-from where we select the values AND "@array/lvalues"-gives the values wrt to the option selected-->
+
+<!--  android:entries="array/list" -->
+<!-- next is settin up string array resourse ..WE GONNA refer to the array list and array list values  by defining them in array.xml
+like we difine all the string data in string.xml similarly we define all the arrrayss in array.xml -->

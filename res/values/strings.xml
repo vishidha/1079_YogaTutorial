@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YogaTutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="exploreasana">Explore Asanas</string>
+    <string name="disease">Disease</string>
+    <string name="aboutyoga">About Yoga</string>
+    <string name="aboutyoga1">"\n"<b>Introduction</b>"\n"
+        Yoga is from the Sanskrit word Yug meaning union {with the Divine}."\n"  
+There are various types of yoga. Before we examine the differences, we should remember that all of 
+them lead to the same goal, "\n"unification with the Divine."\n"
+The yoga paths can be broadly classified into "\n"
+Bhakti Yoga: Path of Devotion"\n"
+Karma Yoga: Path of Selfless Action"\n"
+Jnana Yoga : Path of Transcendental Knowledge"\n"
+Asthanga Yoga: Path of Patanjali (eight-step path)"\n"  
+Unfortunately, yoga in the west has come to mean hatha yoga "\n"
+which is mainly physical exercise and postures (asanas)."\n"
+In fact, asanas is only a single step in the eight-step path (Asthanga yoga of patanjali)"\n".
+Patanjali is quick to point out that asanas are to be used as a stepping stone for the higher paths,"\n"
+since just working on the beauty and welfare of an impermanent object (the body) is a waste of time and effort."\n" 
+Asthanga yoga is sometimes referred to as Raja yoga ."\n" 
+However, Asthanga yoga is more of a philosophy like basic research while raja yoga usually refers to specific techniques"\n" 
+which are based on not only Asthanga yoga but also on various [minor] upanishhads."\n"
+
+"\n" <b>Top 10 yoga benefits</b>"\n" 
+"\n" <b>1.</b> All-round fitness. You are truly healthy when you are not just physically fit but also mentally and emotionally balanced."\n" 
+As Sri Sri Ravi Shankar puts it “Health is not a mere absence of disease. It is a dynamic expression of life – "\n" 
+in terms of how joyful, loving and enthusiastic you are.” This is where yoga helps: postures, pranayama and meditation are a holistic fitness package."\n"    
+"\n" <b>2.</b> Weight loss. Sun Salutations and Kapal Bhati pranayama are some ways to help lose weight with yoga."\n" 
+Moreover, with regular practice of yoga, we tend to become more sensitive to the kind of food our body asks for and when."\n" 
+This can also help keep a check on weight."\n" 
+"\n" <b>3.</b> Stress relief. A few minutes of yoga during the day can be a great way to get rid of"\n"  
+stress that accumulates daily - in both the body and mind."\n"  
+Yoga postures, pranayama and meditation are effective techniques to release stress."\n"  
+"\n"<b> 4.</b> Inner peace. We all love to visit peaceful, serene spots, rich in natural beauty."\n" 
+Yoga is also one of the best ways to calm a disturbed mind."\n" 
+"\n" <b>5.</b> Improved immunity. Our system is a seamless blend of the body, mind and spirit."\n" 
+An irregularity in the body affects the mind and similarly unpleasantness or restlessness"\n"  
+in the mind can manifest as an ailment in the body. Yoga poses massage organs and stregthen muscles;"\n" 
+breathing techniques and meditation release stress and improve immunity."\n" 
+"\n" <b>6.</b> Living with greater awareness. The mind is constantly involved in activity – swinging from the past to the future –"\n" 
+ but never staying in the present.By simply being aware of this tendency of the mind, we can actually save ourselves from getting stressed or worked up and relax the mind."\n" 
+  Yoga and pranayama help create that awareness and bring the mind back to the present moment, where it can stay happy and focused."\n" 
+"\n" <b>7.</b> Better relationships. Yoga can even help improve your relationship with your spouse, parents, friends or loved ones!"\n" 
+ A mind that is relaxed, happy and contented is better able to deal with sensitive relationship matters."\n" 
+  Yoga and meditation work on keeping the mind happy and peaceful; benefit from the strengthened special bond you share with people close to you."\n" 
+"\n" <b>8.</b> Increased energy. Shuttling between multiple tasks through the day can sometimes be quite exhausting."\n" 
+ A few minutes of yoga everyday provides the secret to feeling fresh and energetic even after a long day."\n" 
+ A 10-minute online guided meditation benefits you immensely, leaving you refreshed and recharged in the middle of a hectic day."\n"  
+"\n" <b>9.</b> Better flexibility and posture.Regular yoga practice stretches and tones the body muscles and also makes them strong."\n" 
+It also helps improve your body posture when you stand, sit, sleep or walk."\n"  
+"\n" <b>10.</b> Better intuition. Yoga and meditation have the power to improve your intuitive ability so that you "\n" 
+effortlessly realize what needs to be done, when and how, to yield positive results. It works."\n"  
+You only need to experience it yourself."\n" 
+   </string>
+    <string name="menu">Menu</string>
+    <string name="text">Text</string>
+    <string name="video">video</string>
+    <string name="siddhasana">Siddhasana</string>
+    <string name="bhujangasana">Bhujangasana</string>
+    <string name="list">List Of Asanas</string>
+    <string name="dlist">List Of Diseases</string>
+    <string name="asthma_asanalist">List Of Asanas For Curing Asthma</string>
+    <string name="bp_asanalist">List Of Asanas For Curing bp</string>
+    <string name="cancer_asanalist">List Of Asanas For Curing cancer</string>
+    <string name="cervical_asanalist">List Of Asanas For Curing cervical</string>
+    <string name="diabetes_asanalist">List Of Asanas For Curing diabetes</string>
+    <string name="hernia_asanalist">List Of Asanas For Curing hernia</string>
+    <string name="obesity_asanalist">List Of Asanas For Curing obesity</string>
+    <string name="asana1">SIDDHASANA</string>
+    <string name="string1">"\n" <b>Introduction</b>"\n"
+        "It is said many saints acquired super natural powers by sitting in this asana. Perhaps on account of this the name has been given as such. 
+        “Siddhi” means super natural power. Stout persons find this asana easy."\n
+        
+<b>"Procedure"</b>
+"<b>1.</b>Spread a blanket four folded."
+"<b>2.</b>Sit over it in the usual way."
+"<b>3.</b>Place the heel of one leg just below the anus."
+"<b>4.</b>Place the heel of the other leg below the generative organs."
+"<b>5.</b>In this pose the joints of the two heels will be just touching each other."
+"<b>6.</b>By a continued practice for a fortnight or so it will be easy."
+"<b>7.</b>The hands may be placed in chin mindra style."
+"Then come to the original position."\n
+
+"<b>Fruit of Asana</b>"
+"One can conveniently sit in this pose for longer time. This asana will help to keep up brahmacharya."
+" Because sitting is erect the internal organs are not pressed and they are kept in their natural positions."\n
+"<b>Caution</b>" 
+"Ladies need not do this Asana. There is a another variety under this with some slight modification.
+The hands are joined as we do “Namaskar” (a form of welcome)." 
+"This pose is taken to seek boons and blessings." 
+"This is known asthamasana as described in writing." 
+        
+       </string>
+   <string name="asana2">SARVANGASANA</string>
+   <string name="string2"> "\n" <b>Introduction</b>"\n"
+"The word “Sarvaanga” means all portions of the body. 
+Hence this asana is the one to give an all round benefit."\n 
+"Any body can do this, quite comfortably for a minimum of ten minutes. "\n
+<b>"Procedure"</b>
+"<b>1.</b> Spread a blanket length wise."
+"<b>2.</b> Lie down on the blanket length wise."
+"<b>3.</b> Raise both legs evenly."
+"<b>4.</b>Place the palms on the sides so that the legs can be raised further and support them."
+"<b>5.</b> Raise the body till the chest touches the chin. 
+If it is correctly done the body will give about 80 degrees angle to the head."
+"<b>6.</b> Then slowly come to the original position. This is nothing new pose."
+ "Some people while standing place the palms on the hip portion to give a majestic look." 
+ "In the same way it is done with the head down on the ground."\n
+"<b>Fruit of Asana</b>"
+"The back bone gets good quantity of blood circulation. 
+Further the back bone will become more flexible."
+"Youth and the flexibility of the back bone are proportional."
+"This asana will help to keep up Brahmacharya. Digestion power is increased. 
+Kidneys will function normally."\n
+  "<b>Caution:</b> In the creation there is difference in the body structure between male and female." 
+"Young ladies before marriage can do this asana, when the uterus is under developing stage."
+"But pregnant ladies should not do this asana."\n
+ "So also during monthly period ladies need not do this asana. "
+ "Normally in our country young girls get maturity between 14-15 age." 
+ "They also grow up after maturity."\n 
+ "Hence when this asana is practiced at this period all the internal organs will become strong."
+
+</string>
+   
+     <string name="asana3">MANDUKASANA</string>
+     <string name="string3">"\n" <b>Introduction</b>"\n"
+        "The shape of this formation resembles a frog, so that’s why this asana is called Mandukasana."\n 
+        "In sanskrit frog is called a manduk."\n
+"<b>Procedure</b>"
+"<b>1.</b>Sit in Vajrasana with both the legs bent in the rear."
+   "<b>2.</b>Keep both the paws of the legs touching each other. Keep both the heels opened out." 
+   "Sit with waist and back straight supporting the buttocks on the two heels."
+    "<b>3.</b>Now separate the knees as far apart as possible. This is Manduk sitting."
+    "<b>4.</b>Now for Mandukasana bring both the knees in the front touching each other."
+    "<b>5.</b>Close both the fists of the hands and keep them on the belly on both the sides of the navel."
+  " <b>6.</b> Lower the body in front and let the forehead touch the ground."
+"<b>7.</b>Come back in first position and relax."\n
+"<b>Fruit of Asana</b>"
+ "Mandukasana improves functions of all organs. It is advised in the treatment of constipation, diabetes and digestive disorders."
+    "This asana is effective in reducing the weight of thighs,hips and the abdomen."
+    "This asana strengthens the lower parts of the loins."
+    "This asana stimulates the digestive system."
+    "It benefits which Padmasana gives can be obtained from this asana also."\n
+"<b>Caution</b>"
+"Not for the people who are suffering from peptic or duodenal ulcer, severe back pain and cardiac problem," 
+and patients who have undergone abdominal surgery."
+        
+   </string>
+    <string name="asana4">BADDHA PADMASANA</string>
+    <string name="string4"> "\n" <b>Introduction</b>"\n"
+        "This is another sub type under Padhmasana."\n
+"There is an opinion that this is superior even to Padhmasana."\n
+"<b>Procedure</b>"
+"<b>1.</b>Spread a blanket."
+"<b>2.</b>Sit over it in the usual way."
+"<b>3.</b>Place the legs as in Padhmasana."
+"<b>4.</b>Take the right hand towards back and catch hold of the right toe."
+"<b>5.</b>Take the left hand towards the back and catch hold of the left toe." 
+"Though this is easily said, it is not quite easy to do." 
+"If it is not possible to catch the toe try to take the hand as for back as possible." 
+"<b>6.</b>Then come to the original position."\n
+"<b>Fruit of Asana</b>" 
+"This will cure unnecessary big belly. Hunch back will go away. This is more or less a 
+tapas pose." 
+</string>
+    
+    <string name="asana5">BHUJANGASANA</string>
+   <string name="string5"><b>Introduction</b>"\n"
+       "In the previous asana the near portion of the back bone was given a bend."
+   " By this asana the upper portion of the back bone is given a bend."
+    "The correct position of this asana will look like a serpent raising its head."\n
+"<b>Procedure</b>"
+"<b>1.</b>Place a blanket folded length wise. "
+"<b>2.</b>Lie down on the blanket gently facing the ground." 
+"<b>3.</b>Give a relaxed condition of the body."
+"<b>4.</b>Place the hands on the sides, palm facing the ground." 
+"<b>5.</b>Raise the head and chest."
+"<b>6.</b>It will be noticed that the back bone is given a backward curve at the beginning portion." 
+"<b>7.</b>Gently come to the original position."
+"Do like this some six or seven times." 
+"In the previous position the legs and the head was raised but in this only the head is raised."\n
+"<b>Fruit of Asana</b>"
+"All forms of diseases of the generative organs will be cured."
+"Hunch back will be cured. This will keep the Kundalini sakthi to raise up."
+"Since the intestines are pressed the undigested food is moved towards anus. "
+"For young girls this asana is good. In the growing period the eturus will become strong."
+ "Pregnant ladies should not do this Asana."
+ </string>
+
+   
+    <string name="asana6">CHAKRASANA</string>
+   <string name="string6">"\n" <b>Introduction</b>"\n"
+"Chakrasana is the most important and fundamental backbend."\n
+ "In this pose, you have to lie on your back and push up, balancing just on the hands and feet."\n 
+ "This pose is called a bridge."\n
+ " A back limber is a skill in which the pose is achieved by bending backward from a standing position."\n 
+<b>Procedure</b>
+<b>1.</b>Lie facing upward on the floor."\n"
+<b>2.</b>Bend your knees and set your feet on the floor,"\n"
+heels as close to the sitting bones as possible."\n"
+<b>3.</b>Bend your elbows and spread your palms on the floor beside your head."\n"
+ Forearms relatively perpendicular to the floor, fingertips pointing towards shoulders."\n"
+<b>4.</b>While inhaling, slowly begin to raise the head, back and buttocks off the floor while arcing the spine."\n"
+<b>5.</b>Hold for the duration of the held inhaled breath."\n" 
+<b>6.</b>When you can’t hold the breath comfortable any longer, slowly exhale and return the back to the floor."\n"
+<b>7.</b>Slide the legs out straight returning to the shavasan."\n"
+<b>Fruit Of Asana</b>"\n"
+<b>1.</b>Strengthens the arms, wrists, buttocks, abdomen and spine."\n"
+<b>2.</b>Stretches the lungs and chest."\n"
+<b>3.</b>Stimulates the thyroid and pituitary."\n"
+<b>4.</b>Increases energy and counteracts depression."\n"
+<b>5.</b>Therapeutic for asthma, back pain, infertility and osteoporosis."\n"
+
+<b>Caution</b> "\n"
+Not for the persons, who have back injury, carpel tunnel and syndrome,"\n" 
+diarrhoea, headache, heart problems, high or low blood pressure."\n"
+ </string>   
+    <string name="asana7">DHANURASANA</string>
+     <string name="string7">"\n" <b>Introduction</b>"\n"
+         "The word “Dhanur” means a bow. 
+        "If this asana is done correctly it will look like a bow. 
+        "In this connection a clarification from Astrology seems relevant. 
+        "For the sign Dhanur (Sagittarius), the Lord is Guru (Brahaspati). 
+        "This house or Rasi, (as technically known) is considered a special beneficial sign. 
+        "Further in Gita we find Lord Krishna’s words as, “Among the twelve months I am the month of Dhanur.” 
+        "(This period is between the middle of December to the middle of January). 
+        "So much greatness goes with this name. Hence this asana is great induced.
+
+"<b>Procedure</b>"
+"<b>1.</b>Spread a blanket folded length wise."\n 
+"<b>2.</b>Lie down on it facing the ground. "\n
+"<b>3.</b>Place both hands on sides as usual."\n 
+"<b>4.</b>Slowly bend the legs evenly without bearing space between the knee caps. "\n
+"<b>5.</b>Catch hold of the toes with the fingers raising the head also."\n 
+"<b>6.</b>It will be seen that by this the backbone is given a fine curve"\n 
+"Stout persons may find it difficult. For them leaving a space between the knee will enable them to catch the toes."\n
+ "By continuous practice the space will be minimized."\n
+
+"<b>Fruit of Asana</b>"\n
+"This asana gives many benefits."\n 
+"Indigestion, hunch back, Rheumatism, Pain in elbow joints and Palm joints will be cured."\n 
+"Gastro intestinal troubles will also be cured. There is still a difficult pose, as catching hold of alternate toes."\n
+         
+    </string>
+     <string name="asana8">GARUDASANA</string>
+     <string name="string8">"\n" <b>Introduction</b>"\n"
+         "For Garudasana you need strength, flexibility, and endurance,"\n 
+     "but also unwavering concentration that actually calms the fluctuations (vrtti) of consciousness."\n 
+      "This is true of all the yoga poses, but it's a bit more obvious in pretzel-like Eagle."\n  
+"<b>Procedure</b>"\n 
+"<b>1.</b>Start from Utkatasana and shift your weight onto the right leg."\n  
+"<b>2.</b>Bring the left leg up and cross the left thigh over the right."\n  
+"<b>3.</b>Hook the left foot around the right calf."\n  
+"<b>4.</b>Bring the arms out in front."\n  
+"<b>5.</b>Cross the right arm over the left and bring the palms to touch."\n  
+"<b>6.</b>Lift the elbows while keeping the shoulders sliding down the back."\n  
+"<b>7.</b>Hold the position for some time and repeat."\n 
+"<b>8.</b>Stay for 15 to 30 seconds, then unwind the legs and arms and stand in Tadasana again."\n  
+"<b>9.</b>Repeat for the same length of time with the arms and legs reversed."\n 
+
+"<b>Fruit of Asana</b>"\n 
+"Strengthens and stretches the ankles and calves."\n  
+"Stretches the thighs, hips, shoulders, and upper back."\n  
+ "Improves concentration."\n  
+"Improves sense of balance."\n 
+
+"<b>Caution</b>"\n  
+"The persons with knee injuries should avoid this pose."\n
+</string> 
+     
+  <string name="asana9">GOMUKHASANA</string>
+  <string name="string9">"\n" <b>Introduction</b>"\n"
+      This asana resembles the face of the cow that is why"\n"
+   it is called the cow face or gomukhasana."\n"
+<b>Procedure</b>"\n"
+<b>1.</b>From Knee to Ankle, slide the knees to center stacking the right knee"\n"
+ directly over the left."\n"
+<b>2.</b>It may be helpful to come forward onto the hands and knees to align the knees."\n"
+<b>3.</b>Then separate the feet and come back to sit between the feet."\n" 
+<b>4.</b>Bring the left arm up towards the ceiling."\n" 
+<b>5.</b>Bend the left elbow, bringing the left hand down the center of the back."\n"
+<b>6.</b>Bring the right arm out to the right side, bend the elbow and "\n"
+bring the right arm up the center of the back."\n" 
+<b>7.</b>Hold hands behind the back."\n" 
+<b>8.</b>Draw both elbows toward the center."\n" 
+<b>9.</b>Hold the position for four to eight breaths and then come back to the relaxed posture."\n"
+
+<b>Fruit of Asana</b>"\n"
+It stretches the ankles, hips and thighs, shoulders, armpits and triceps, and chest."\n" 
+
+<b>Caution</b>"\n"
+"\n" 
+Not for the persons who have serious neck, shoulder or knee problems."\n"
+ </string>   
+    <string name="asana10">HALASANA</string>
+    <string name="string10">"\n" <b>Introduction</b>"\n"
+        "This asana gives a backward bend to the back bone."\n 
+    "As the name goes, the pose looks like a plough. "\n
+"<b>Procedure</b>"
+"<b>1.</b>Spread a soft blanket."
+"<b>2.</b>Lie down on it in the usual way."
+"<b>3.</b>Place both hands on the sides in the usual way, palms facing the ground."
+"<b>4.</b>Raise both the legs evenly without bending when the legs are raised the hands should not be taken from the ground."
+"<b>5.</b>Making a curve of the spine bring the toes towards the ground away from the head."
+"<b>6.</b>Bring the legs further so that the toes touch the ground."
+"<b>7.</b>Breathe slowly during asana."
+"<b>8.</b>Then come to the original position."
+"This asana can be practiced in three stages." 
+"At the first stage raise the legs half way. 
+"Then in the second stage give a bend to the spine so that the toes are nearer to the ground."
+ "In the third stage touch the ground with the toes. "
+"There is another variety which is rather difficult. "
+"As in Pachamothasana hold the toes with the fingers."\n
+"<b>Fruit of Asana</b>"
+"The spinal region get much benefit. This asana removes lethargy."
+"Chronic constipation is removed. Wind trouble in stomach will go away."
+"Liver trouble will be cured."\n  
+"<b>Caution</b>"
+"Due to physical shape, some may not be able to take the legs, towards back position.
+"Such persons can adopt this easy way. After lying down raise both the "
+"legs to the possible extent giving a gap of two feet or so from the ground."
+"Then bring the legs to the original position. Repeat this same six or eight times."
+"This form of practice will enable to bring the legs towards back."
+</string>
+
+  <string name="asana11">SHAVASANA</string>
+   <string name="string11">"\n" <b>Introduction</b>"\n"
+       "We can truly get in touch with the deepest of Anahata Chakra through Shavasana."\n 
+ "In this asana, as we release the whole of the body into the ground and allow the full effect of gravity "\n 
+ "to flow through us then we restrain and retain Vayu Tattva."\n  
+
+"<b>Procedure</b>"
+"<b>1.</b>Lie down quietly on your back like a corpse. "
+"<b>2.</b>Rest your arms at your sides and your palms facing up."  
+"<b>3.</b>Clear your mind of thoughts."  
+"<b>4.</b>Take long deep breaths and be in a perfectly relaxed condition" 
+"<b>5.</b>Stay in the pose for ten minutes and then release the pose."\n 
+"<b>Fruit of Asana</b>"  
+"This asana relaxes the body, calms the brain and helps relieve stress and mild depression." 
+"It also reduces headache, fatigue, and insomnia. Helps to lower blood pressure."\n 
+"<b>Caution</b>"
+"Back injury or discomfort: Do this pose with your knees bent and your feet on the floor,"  
+"hip-distance apart; either bind the thighs parallel to each other with a strap or support" 
+"the bent knees on a bolster."  
+"In the case of pregnancy: Raise your head and chest on a bolster."
+       
+   </string> 
+    <string name="asana12">KUKKUTASANA</string>
+    <string name="string12">"\n" <b>Introduction</b>"\n"
+         "This is another sub type of Padhmasana."\n  
+
+"<b>Procedure</b>"
+"<b>1.</b>Spread a blanket length wise."  
+"<b>2.</b>Sit over it in the usual way." 
+"<b>3.</b>Place the legs as in Padhmasana."  
+"<b>4.</b>Place the hands in between the leg and the thigh, palm facing the ground." 
+"<b>5.</b>On the strength of the hands gently raise the body." 
+"<b>6.</b>Then come to the original position."\n
+
+"<b>Fruit of Asana</b>"
+"This will cure stomach problems and body pains"
+</string>
+         
+
+    
+ <string name="asana13">MAKARASANA</string>
+ <string name="string13">"\n" <b>Introduction</b>"\n"
+     Makara means Crocodile."\n" 
+ While doing this Asana body resembles the shape of crocodile,"\n"
+ hence it is known as Makarasana."\n" 
+"\n" <b>Procedure</b>"\n"
+<b>1.</b>Lie on your belly, with the arms crossed under your head."\n" 
+Turn your head to one side and rest your head on your arms."\n" 
+<b>2.</b>Close the eyes and let your whole body relax into the floor."\n"
+<b>3.</b>Breathe deeply, pressing the belly down into the floor with each inhalation and hold for 6-10 breaths."\n"
+ With each exhalation allow your body to relax deeper into the floor."\n"
+<b>4.</b>Bring the palms under your shoulders and slowly press up into child pose or roll over onto your back."\n"
+
+"\n" <b>Fruit of Asana</b> "\n"
+<b>1.</b>As all the muscles are relaxed, as well as the heart beats and"\n" 
+the breathing also slow down."\n" 
+<b>2.</b>Though the basic operation turns slow, the body gets good rest."\n"
+<b>3.</b>This is beneficial in Asthma."\n"
+<b>4.</b>It corrects the acquired wrong process of respiration due to Asthma etc."\n" 
+<b>5.</b>Abdominal muscles get massaged."\n"
+
+"\n" <b>Caution</b>"\n"
+<b>1.</b>Those having heart problem, obesity, gas or high blood pressure should not practice."\n"
+<b>2.</b>Reduces stress and tension, promotes sleep, regulates blood pressure and reduces anxiety."\n" 
+
+ </string>
+    <string name="asana14">MATSYASANA</string>
+    <string name="string14">"\n" <b>Introduction</b>"\n"
+        "When the back bone has been bent in the forward direction in one asana,"\n 
+    "the next should be to bend the back bone in the backward direction."\n 
+    "Hence after Sarvangasana this asana has to be done."\n 
+   " As the name describes this asana is likely to be in the form of a fish."\n 
+
+"<b>Procedure</b>" 
+"<b>1.</b>Spread a blanket folded length-wise."
+"<b>2.</b>Sit on it in the usual manner." 
+"<b>3.</b>Have the legs in the Padhmasana pose." 
+"<b>4.</b>Gently lie down."
+"<b>5.</b>Place the hands under the head palms facing the head."
+"<b>6.</b>Then bend the back bone and also the head. "
+"In bending the neck great care has to be taken so that the neck may not develop sprain."
+ "I have found a nice way to understand the angle to which the neck is bent."
+  "When we are lying down we see the portion of the roof."
+  "If the neck is bent backward our vision falls on the pictures or clock on the wall." 
+  "If it is still bent our vision falls on table or something below the clock etc." 
+  "If this process is suitable to you, you can also adopt this. "
+"<b>7.</b> Then slowly come to the original position.This asana can be practiced in another way also."
+Padhmasana position can be had after lying down."\n
+
+"<b>Fruit of Asana</b>"
+"This asana is a cure for many diseases."
+"This increases the digestion power to a great extent chest troubles, Asthma, etc. are cured." 
+"Since the throat and bronchial portions are broadened more fresh air is intaken." 
+"The glands in the neck portion are nourished."
+"<b>Caution:</b>"\n
+" Instead of placing the hands below the head some practise this asana in another way."
+ "The toes (of Padhmasana pose) are held by the fingers."
+  "If this is suitable method it can be practiced this way also."
+  </string> 
+    
+    <string name="asana15">MAYURASANA</string> 
+   <string name="string15">"\n" <b>Introduction</b>"\n"
+       "The word “Mayura” means peacock."\n 
+   "Since this asana looks like a peacock the name is Mayurasana."\n 
+   "The ancient Rishis have observed, nature, animals,"\n
+   "birds and creatures living in water so closely that their pose if practiced for man will give special benefits."\n 
+   "The bats rest with head down. Monkeys catching hold of a twig hang down raising the head."\n
+    "Thus many asanas have some sort of similarity with the poses of several creatures."\n
+
+"<b>Procedure</b>"
+"This also comes under the category of difficult asana."
+"<b>1.</b>Spread a soft blanket."
+"<b>2.</b>Place a cushon or a pillow on one end of the blanket." 
+"<b>3.</b>Lie down on the blanket, the cushon being near to the head."
+"<b>4.</b>In this position the toes will be on the ground."
+"<b>5.</b>Bend the hands at elbow and place the palmes facing the ground." 
+"<b>6.</b>Bring the elbows near the naval region." 
+"<b>7.</b>Gently raise both legs from the ground." 
+"<b>8.</b>Raise the head also." 
+"<b>9.</b>The whole weight of the body is on the elbows. Since the naval region is "
+"almost the central point for the body there will be equal distance on the two sides."
+"<b>10.</b>However, if you happen to fall down there is cushon so that the nose may not be hurt." 
+"<b>11.</b>Avoid spectacles during Asana. "
+"<b>12.</b>If it is not possible to raise both the legs begin with the raising of one leg at the initial stage." 
+"<b>13.</b>Come to the original position slowly." 
+"<b>14.</b>A period of ten or twenty seconds is enough for normal person in the early stage."\n
+"<b>Fruit of Asana</b>"
+"In a few seconds the entire body gets freshness." 
+"Indigestion will be removed. All kinds of liver troubles will be cured."
+ "This enables the Kundalini Sakthi to raise."\n
+"<b>Caution:</b>"
+" There is a sub type in this asana which is described as Lolasana."
+ "This is easier than Mayurasana. According to my physical frame this is my favourite asana."
+  "The procedure is rather simple also. Sit on Padhmasana and lie down. "
+  "As in Mayurasana, place the elbows on the naval region."
+  "Raise the head and the legs in Padhmasana."
+  "Here the chance of falling down is not likely but cushon may be placed to protect the nose."
+   "The benefits of Mayurasana are got fully by this also"
+   </string>
+   
+     <string name="asana16">PASCHIMOTHNASANA</string>
+    <string name="string16">"\n" <b>Introduction</b>"\n"
+        "In the previous asana the back bone was given a backward twist."\n
+     "In this asana it is given a forward twist. This a difficult asana for stout persons with big belly."\n 
+     "There is a proverb. “Rome was built in a day”."\n 
+    " Hence patience and continued practice is essential to get perfection in this asana."\n 
+     "Some lean persons can learn in a fortnight training,"\n 
+     "while some others may take even a month period."\n
+
+"<b>Procedure</b>"\n
+"<b>1.</b>Spread a soft blanket."\n 
+"<b>2.</b>Sit on it in the usual way."\n 
+"<b>3.</b>Stretch both the legs forward without bending."\n 
+"<b>4.</b>Bend the body in the forward direction taking the hands towards the toes."\n 
+"<b>5.</b>Catch hold of the toes with the fingers."\n
+"Though this is easily said it is very difficult to do."\n 
+"In the early stages in bringing the hands towards the toes there will be a wide gap."\n 
+"It may not be possible to catch the toes. "\n
+"In this case, the legs can be slightly bent to enable to catch the toes."\n 
+"Then gradually the legs can be in a straight position."\n
+
+"<b>6.</b>Come to the original position slowly."\n 
+"<b>7.</b>Breathe slowly during Asana time."\n 
+"<b>8.</b>It is enough that, a few seconds, period in this asana be practiced."\n
+
+"<b>Fruit of Asana</b>"\n
+"Several wonderful results are got. Persons having big belly will develop a trim figure in due course."\n 
+"Liver, spleen will function normally."\n 
+"Piles is also cured. Diabetes can be cured in due course."\n 
+"One great personality has described that Sirasasana, Sarvangasana and Pachimothasana"\n
+ are the three great boons given to us by the ancient Rishes."\n
+
+</string>
+
+
+<string name="asana17">SIRSASANA</string>
+<string name="string17">"\n" <b>Introduction</b>"\n"
+    This pose is the most recognized yoga pose than the other poses."\n"
+ Standing on one’s head is called Sirsasana. It is also called the king of the asanas,"\n" 
+ so one can practice this asana after having mastery in other asanas."\n" 
+"\n" <b>Procedure</b>"\n"
+<b>1.</b>Firstly kneel down on the mat. Then interlock the fingers of your hands and"\n"
+ place them and your forearms on the extra padding on the yoga mat."\n" 
+<b>2.</b>Keep your elbows close together. Place the back of your head into the hollow of the palms."\n"
+<b>3.</b>Now, rise up off your knees and take a step or two towards the head."\n"
+<b>4.</b>Inhale, and slowly raise the legs until they are vertical."\n"
+<b>5.</b>Now, keep your back straight and try to relax and breathe deeply and slowly from the abdomen."\n"
+<b>6.</b>Now, concentrate on the brain or the pineal gland between the eyebrows."\n"
+<b>7.</b>To release or to come down, bend your knees and lower one leg and then the other."\n"
+<b>8.</b>For the beginners, just ask your friend to hold one of your legs while you lower the other leg."\n"
+
+"\n" <b>Fruit of Asana</b>"\n"
+<b>1.</b>It promotes hair growth by increasing blood circulation in the scalp."\n"
+<b>2.</b>The Shirshasana or the headstand increases the circulation to the brain,"\n"
+due to which we can have improved brain functions and increased vitality and confidence."\n"
+<b>3.</b>Poor blood circulation, fear, sleeplessness, headache, tension,"\n" 
+constipation and the problems of eyes and nose can be improved by it."\n"
+<b>4.</b>It also helps to put the spine into correct alignment."\n" 
+
+"\n"<b> Caution</b>"\n"
+<b>1.</b>Not for the persons who have high or low blood pressure, atherosclerosis (blocked blood vessels),"\n" 
+any history of strokes, serious eye disease, pus in ears, suffering from constipation, suffering from neck injury,"\n"
+or also who have organically defective pituitary."\n" 
+<b>2.</b>But after recovering from these diseases you can try do this asana."\n"
+</string> 
+    
+    
+    <string name="asana18">SHALABHASANA</string>
+    <string name="string18">
+
+<b>Procedure</b>"\n" 
+<b>1.</b>Lie on your stomach with legs stretched, and feet together, chin resting on the ground."\n" 
+Keep both your hands under the thighs."\n" 
+<b>2.</b>While inhaling, slowly lift both your legs upwards and stretch as far as possible without bending the knees and toes."\n" 
+ Retain this position for some time and then, while exhaling, lower your legs slowly and bring back to the original position."\n" 
+<b>3.</b>Repeat this three to four times."\n"  
+
+"\n"<b> Fruit of Asana:</b>"\n" 
+However, persons suffering from hernia, cardiac complaints and ulcer should avoid this asana."\n"  
+This asana helps to relieve arthritis and rheumatism. "\n" 
+It strengthens the whole body, particularly the lungs, abdominal organs, sciatic nerves, prostate glands and the kidneys."\n" 
+It also provides relief in cases of diabetes, constipation, dyspepsia, bronchitis, etc."\n" 
+</string>
+    
+    
+ <string name="asana19">TADASANA</string>
+ <string name="string19">"\n" <b>Introduction</b>"\n"
+     Tadasana can be practiced as a starting position for standing poses,"\n"
+ in between standing poses, or by itself to improve posture."\n"
+ Tadasana is a position used at the beginning and in the middle and in the end,"\n" 
+ in which you pay attention to your position, your concentration and your breathing."\n" 
+ During intensive Yoga sessions Tadasana makes it easier for you to maintain your meditative focus."\n"
+
+"\n" <b>Procedure</b>"\n"
+<b>1.</b>Stand erect, legs together, hands by the side of the thighs.Gaze in front."\n" 
+<b>2.</b>Bring the hands up straight towards the sky, fingers pointing upward."\n"
+<b>3.</b>Raise your hands straight in front up to arms. Palms facing each other."\n"
+<b>4.</b>Now slowly raise your heels and stand on toes. Raise heels as much as you can."\n"
+<b>5.</b>Stretch body up as much as possible."\n" 
+<b>6.</b>For returning to the original position, bring your heels on the ground first."\n"
+<b>7.</b>And then slowly bring down your hands also."\n" 
+
+"\n" <b>Fruit of Asana</b>"\n"
+This Asana mproves posture,strengthens thighs,knees and ankles,"\n"
+firms abdomen and buttocks,relieves sciatica,reduces flat feet."\n" 
+</string>
+    
+ <string name="asana20">VAJRASANA</string> 
+<string name="string20">"\n" <b>Introduction</b>"\n"
+The name comes from the Sanskrit words vajra meaning thunderbolt or diamond"\n"
+and asana meaning posture or seat."\n"
+"\n"Procedure"\n"
+<b>1.</b>The practitioner sits on the heels with the calves beneath the thighs."\n"
+<b>2.</b>There is a four finger gap between the knee-caps,"\n" 
+and the first toe of both the feet touch each other and sit erect."\n"
+"\n"<b>Fruit of Asana</b>"\n"
+This asana helps in digestive issues like constipation."\n"
+It also strengthens the muscles of the legs and back."\n"
+"\n"<b>Caution</b>"\n"
+Some orthopaedic surgeons claim Vajrasana may be harmful to knees."\n"
+It has also been linked to damage to the common fibular nerve resulting in foot drop,"\n"
+where dorsiflexion of the foot is compromised and the foot drags during walking;"\n"
+and in sensory loss to the dorsal surface of the foot and portions of the anterior, lower-lateral leg."\n"
+In this context it has been called yoga foot drop."\n"</string>
+ <string name="baddhapadmasana">Baddhpadmasana</string>
+ <string name="chakrasana">Chakrasana</string>
+ <string name="dhanurasana">Dhanurasana</string>
+ <string name="garudasana">Garudasana</string>
+ <string name="gomukhasana">Gomukhasana</string>
+ <string name="halasana">Halasana</string>
+ <string name="kukkutasana">Kukkutasana</string>
+ <string name="makrasana">Makrasana</string>
+ <string name="mandukasana">Mandukasana</string>
+ <string name="matsyasana">Matsyasana</string>
+ <string name="mayurasana">Mayurasana</string>
+ <string name="paschimotthanasana">Paschimotthansana</string>
+ <string name="sarvangasana">Sarvangasana</string>
+ <string name="shalabhasana">Shalabhasana</string>
+ <string name="shavasana">Shavasana</string>
+ <string name="sirsasana">Sirsasana</string>
+ <string name="tadasana">Tadasana</string>
+ <string name="vajrasana">Vajrasana</string>
+ 
+ <string name="asana21">Anulom Vilom</string>
+ <string name="string21">"\n" <b>Introduction</b>"\n"
+     In this pranayam the breath is regulated with the help of the nostril."\n"
+      It helps encourages mind to higher levels of discrimination, concentration and thoughts."\n"
+       Gives more energy and oxygen to the physical body and helps calm your nerves and improve circulation."\n" 
+
+"\n"<b> Procedure</b>"\n"
+<b>1.</b>Hold your right nasal with thumb, breathe in from left."\n" 
+<b>2.</b>Now open right nasal and close left nasal with middle "\n"
+and ring finger and breathe out from right nasal."\n" 
+<b>3.</b>Now breathe in from right nasal. "\n"
+<b>4.</b>Now close right nasal and open left and breathe out"\n"
+ and in from left nasal and so on."\n"
+
+"\n" <b>Fruit</b> "\n"
+Problems of heart, high BP, heart blockage, vat-cuf-pit, arthritis, cartilage,bent ligaments,"\n"
+ sinual fluid reduced, paralysis, neural related, depression, migraine pain, asthma, sinus, allergy can be cured."\n"
+
+"\n"<b> Caution</b> "\n"
+It should be done under the guidance of the expert if you are doing it for first time."\n" 
+Patients of hypertension should refrain from holding the breath."\n" 
+     
+  </string>
+ <string name="asana22">KapalBhati</string>
+ <string name="string22">"\n" <b>Introduction</b>"\n"
+     The word kapalbhati is made up of two words, kapal meaning skull and bhati means shining."\n"
+      Due to the process, the organs under the skull mainly the brain and the"\n" 
+      small brain are influenced in a good manner."\n" 
+"\n"<b> Procedure:</b>"\n"
+<b>1.</b>Keep breathing gradually while sitting in Padmasana ."\n" 
+<b>2.</b>Inhale and start performing Kapalbhati as stated before,"\n"
+<b>3.</b>Keep on doing this rotation swiftly in rhythmic manner."\n" 
+<b>4.</b>Perform as many cycles as possible and then keep breathing gradually."\n"
+All these processes are included under one cycle of Kapalbhati."\n" 
+
+"\n" <b>Fruit</b>"\n"
+Helps in cleansing, invigorating, warming, prevents illness and allergies."\n" 
+
+
+"\n"<b> Caution</b>"\n"
+The level of common person can go up to 200 repetitions."\n"
+ It is not advisable to increase the number beyond that."\n"
+Patients suffering from heart trouble, lung trouble should practice this under an expert guidance."\n" 
+Those suffering from diseases of blood circulation should perform the process very carefully."\n" 
+They should perform the process under the guidance and care of experts."\n"
+ </string>
+ <string name="asana23">Ardha Halasana</string>
+ <string name="string23">"\n" <b>Introduction</b>"\n"
+     This asana is similar to uttanapadasana."\n"
+ The only difference is that in uttanapadasana the feet are taken high about 30 degree"\n"
+ and in Ardha-Halasana it is about 90 degree."\n" 
+
+"\n" <b>Procedure</b>"\n"
+<b>1.</b>Lie on your back with feet together."\n"
+ Keep your palms beside the thighs, facing the ground."\n" 
+<b>2.</b>Now inhale and raise your right leg, as much as possible, without bending at the knees."\n"
+ Remain in this posture for some time."\n" 
+<b>3.</b>Then repeat the asana with the left leg."\n"
+<b>4.</b>To release, exhale and bring the leg down slowly and relax."\n"
+
+"\n"<b> Fruit</b> "\n"
+<b>1.</b>This asana is an excellent exercise for the pelvic region."\n" 
+<b>2.</b>Ardha-Halasana also burns excess fat in the thighs, hips and abdomen."\n"
+
+"\n"<b> Caution</b> "\n"
+Do not do this asana if you have following problems"\n"
+<b>1.</b>Suffer from high blood pressure. "\n"
+<b>2.</b>Have a detached retina "\n"
+<b>3.</b>Feel any pressure in the head or neck"\n"
+</string>
+ <string name="asana24">Shashankasana</string>
+ <string name="string24">"\n" <b>Introduction</b>"\n"
+     Shashanka in Sanskrit means the moon, that’s why it is called moon pose also."\n" 
+<b>Procedure</b>"\n"
+<b>1.</b>Sit with legs folded backwards, heels apart, knees and toes together (sit in vajrasana)."\n" 
+<b>2.</b>Adjust your hips between the heels (Vajrasana). Slowly raise your arms over the head."\n"
+<b>3.</b>While exhaling, slowly bend forward and stretch your palms on the floor"\n" 
+with abdomen pressing against the thighs."\n"
+<b>4.</b>Then bring your face downwards and touch the floor with the"\n" 
+forehead without raising the buttocks."\n"
+ Inhaling slowly, return to an upright position, and then reverse the process."\n"
+<b>5.</b>Slowly revert to the normal position of Vajrasana."\n"
+ You may do this asana at least 8 to 10 times."\n"
+ 
+ "\n" <b>Fruit</b>"\n"
+This asana stretches the rectus muscle of the abdomen,"\n"
+helps in improving the digestion,relieves constipation and"\n" 
+benefits people with sciatica and hypertension."\n"
+
+"\n"<b> Caution</b>"\n" 
+Do not release the ankles from their position, without raising the back."\n" 
+Not for the people who are suffering from pain in the hip joint."\n"
+</string>
+ <string name="asana25">Supta Vajrasana</string>
+ <string name="string25">"\n" <b>Introduction</b>"\n"
+     This asana is the further development of Vajrasana."\n"
+Supta in Sanskrit means supine and Vajrasana means lying on the back."\n"
+We lie on our back with folded legs, hence, it is called Supta-Vajrasana."\n" 
+
+"\n"<b> Procedure</b>"\n"
+<b>1.</b>Sit in Vajrasana."\n" 
+<b>2.</b>Slowly take the help of right elbow, then left elbow and"\n" 
+place them on the ground towards backside."\n" 
+<b>3.</b>Slowly straighten you hands and completely lie on your back."\n"
+<b>4.</b>Shoulders should rest on the ground. Beginners may keep their hands on respective thighs."\n"
+ Knees should remain together."\n"
+<b>5.</b>After practicing this position well, making the shape of a scissor with both hands,"\n"
+bring them under the shoulders."\n"
+<b>6.</b>Right hand will remain under left shoulder and left under the right,"\n"
+ head in the middle of them. Stay in the position for a while and then release."\n"
+<b>7.</b>While returning to the original position, first take out your hands "\n"
+and place it by the side of your body."\n"
+<b>8.</b>Now, with the help of elbows sit as in the first position."\n"
+
+"\n"<b> Fruit</b>"\n"
+This stretches the thigh muscles and the abdomen,stomach is stimulated,"\n" 
+strengthens the thighs,helps those suffering from constipation,cures sciatica."\n"
+
+"\n"<b> Caution</b>"\n"
+There should never be more than normal pressure on the back, arms, "\n"
+and the ankle joints while doing this exercise."\n"
+     
+</string>
+ <string name="asana26">Ushtrasana</string>
+ <string name="string26">"\n" <b>Introduction</b>"\n"
+     The word ushtra refers to Camel. In this asana,"\n"
+the body resembles the neck of a camel, that is why it is called Ushtrasana."\n" 
+
+"\n"<b> Procedure</b>"\n"
+<b>1.</b>Sit with legs stretched, heels together, palms pressing on the ground by the side of buttocks,"\n"
+to keep the body at right angles to the legs with an erect spine."\n" 
+<b>2.</b>Bend right leg backwards."\n" 
+<b>3.</b>Bend the left leg to come to Vajrasana."\n" 
+<b>4.</b>Raise up making the trunk vertical."\n" 
+<b>5.</b>Inhale and bend the body backwards and bring the hands on the heels."\n"
+<b>6.</b>Inhale and lift the head up, place the hands on the hips and"\n" 
+tilt forward into a straight line and EXHALE. Perform once or twice."\n"
+
+"\n"<b> Fruit</b>"\n"
+This asana stretches the upper and lower thigh and knees,the focus point is the spine,"\n"
+limbers the entire spine and pelvis. It will open the chest allowing for deeper breathing."\n"
+
+"\n"<b> Caution</b>"\n"
+Not for the persons who have hernia,"\n"
+ recent or chronic knee, shoulder, neck or back injury or inflammation."\n"
+ </string>
+ 
+ <string name="asana28">Pavanmuktasana</string>
+ <string name="string28">"\n" <b>Introduction</b>"\n"
+     In Sanskrit Pavan means air, mukta means release or free."\n"
+Pavanmuktasana balances the wind in whole body."\n" 
+
+"\n" <b>Procedure</b>"\n"
+<b>1.</b>Lie on your back. Hug your knees into your chest, while you keep your head,"\n"
+ neck and shoulders relaxed and on the floor."\n" 
+<b>2.</b>Breathe normal."\n"
+<b>3.</b>Focus: Close your eyes or gaze beyond your knees and relax your back muscles."\n"
+<b>4.</b>Hold the posture for as long as it feels good. Practice this posture after backbends to release the muscles."\n"
+<b>5.</b>While inhaling release both the legs. "\n"
+<b>6.</b>One must rest before repeating the exercise."\n"
+
+"\n"<b> Fruit of Asana</b>"\n" 
+This posture releases the muscles of the lower back and relaxes the body,"\n"
+regulates wind in the body,relieves constipation and indigestion,reduces obesity"\n"
+and excessive fat of the abdomen,helps in keeping away the disease of the lungs"\n"
+and the heart,for people suffering from wind trouble, acidity and gas formation,"\n"
+ it has an instant corrective effect."\n"
+
+"\n"<b> Caution</b>"\n"
+<b>1.</b>Pregnant women should not perform this asana."\n"
+<b>2.</b>People with serious back conditions, such as sciatica and slipped disc should avoid this asana."\n"
+</string>
+ 
+ 
+</resources>
